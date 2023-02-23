@@ -29,8 +29,3 @@ In summary, if I develop application displaying lots of data in tables, I will u
 #### Checkbox
 
 Here the checkboxes are implemented in a simple way, in real production I would make a separate component for them
-
-
-git remote add origin git@github.com:goranradonic/spendit-ag.git
-
-git remote set-url origin git@github.com:goranradonic/spendit-ag.git
